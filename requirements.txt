@@ -3,4 +3,4 @@ face-recognition
 pillow
 flask
 cmake
-urllib3_1_26_2
+urllib3==1.26.2
