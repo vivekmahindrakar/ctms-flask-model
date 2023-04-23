@@ -2,4 +2,5 @@ pybase64
 face-recognition
 pillow
 flask
+cmake
 urllib3_1_26_2
